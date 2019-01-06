@@ -1,0 +1,8 @@
+x=msgbox("Your computer is infected", 0+16, "S' Anti-Virus")
+x=msgbox("Destroy all files?", 0+32, "S' Anti-Virus")
+x=msgbox("Thank you for your cooperation", 0+0, "S' Anti-Virus")
+x=msgbox("Deleting all files in...", 0+16, "Virus")
+x=msgbox("3...", 0+16, "Virus")
+x=msgbox("2...", 0+16, "Virus")
+x=msgbox("1...", 0+16, "Virus")
+x=msgbox("Stop playing fortnite!", 0+16, "Sagi")
