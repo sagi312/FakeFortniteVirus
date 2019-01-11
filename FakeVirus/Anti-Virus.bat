@@ -1,15 +1,15 @@
 @echo off
 echo Running System Diagnostics
-echo .
+echo.
 echo Hardrive --- FAILED
-echo .
+echo.
 echo Processor --- FAILED
-echo .
+echo.
 echo Web --- FAILED
-echo .
+echo.
 echo Fortnite --- FAILED
 ping 127.0.0.1 -n 2 > nul
-echo .
+echo.
 echo Search virus?
 pause
 C:\FakeVirus\Anti-Virus-Alert.vbs
